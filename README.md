@@ -9,7 +9,7 @@
 
 ## 个人信息
 
-- 王浩文/男/1993										![](https://www.wn789.com/wp-content/uploads/2017/09/20170910212011.png)				
+- 王浩文/男/1993						      				![](https://github.com/wangHwYD/resume/blob/master/images/25262967.jpg)				
 - 专科/长江职业技术学院 		
 - 工作年限：3年半
 - 技术博客：
