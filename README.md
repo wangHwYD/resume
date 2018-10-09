@@ -8,10 +8,10 @@
 ---
 
 ## 个人信息
-
-- 王浩文/男/1993						      				![](https://github.com/wangHwYD/resume/blob/master/images/20181009143422.png)				
-	 专科/长江职业技术学院 		
+	![](https://github.com/wangHwYD/resume/blob/master/images/20181009143422.png)		
+- 王浩文/男/1993   						      	
 - 工作年限：3年半
+- 专科/长江职业技术学院
 - 技术博客：
 - GitHub：https://github.com/wangHwYD
 - 期望职位：Android高级程序员
