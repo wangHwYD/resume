@@ -9,7 +9,7 @@
 
 ## 个人信息
 
->![](https://github.com/wangHwYD/resume/blob/master/images/20181009143422.png)	
+![](https://github.com/wangHwYD/resume/blob/master/images/20181009143422.png)	
 
 
 - 王浩文/男/1993   						      	
@@ -83,10 +83,14 @@ xx项目
 ### 开源项目和作品
 [study](https://github.com/wangHwYD/study) 收集的学习资料
 
+[imageAnd]() 图片添加  
+
 
 ### 技术文章:
 [android 内存泄漏(多文章摘录)](https://www.jianshu.com/p/0fa751127d5e)
+
 [JS与Android WebView的简单交互 + WebView 的简单使用](https://www.jianshu.com/p/befc6f77434e)
+
 [android WebView js加载本地文件的跨域问题](https://www.jianshu.com/p/0370d166c72f)	
 
 
