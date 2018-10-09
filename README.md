@@ -9,13 +9,13 @@
 
 ## 个人信息
 
-- 王浩文/男/1993						      				![](https://github.com/wangHwYD/resume/blob/master/images/20181009143422.jpg)				
+- 王浩文/男/1993						      				![](https://github.com/wangHwYD/resume/blob/master/images/20181009143422.png)				
 	 专科/长江职业技术学院 		
 - 工作年限：3年半
 - 技术博客：
 - GitHub：https://github.com/wangHwYD
 - 期望职位：Android高级程序员
-- 期望薪资：税前月薪15k~17k
+- 期望薪资：税前月薪13k~15k
 - 期望城市：杭州
 
 ---
