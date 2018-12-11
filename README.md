@@ -35,15 +35,10 @@ mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
 ###[项目图片](https://github.com/wangHwYD/resume/blob/master/images/%E6%B9%BE%E6%BB%A9%E9%95%BF%E5%8A%A9%E6%89%8B/tz.md)
 
 [新闻](https://mp.weixin.qq.com/s/JVOgF9ulvyV0hTBeHJHsqw)
-
 [新闻](https://mp.weixin.qq.com/s/JVOgF9ulvyV0hTBeHJHsqw)
-
 [新闻](https://mp.weixin.qq.com/s/r1eBDb0OV2GPYpNsDLPOzw)
-
 [新闻](https://mp.weixin.qq.com/s/pvcsHvpKOLUQfxRLhN4z8Q)
-
 [新闻](https://mp.weixin.qq.com/s/ZEoFJFSGuL6qpu7xTLksQw)
-
 [新闻](https://mp.weixin.qq.com/s/-JUnWR5NuU-MLJa5g6oKIw)
 
 ### 海洋空间资源数据采集系统(2018年4月~迭代中)平板项目 独立开发
