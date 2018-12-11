@@ -1,3 +1,5 @@
+![](https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E5%AE%9D%E4%B8%80%E5%8F%B7/InkedCB4FF59E9CB155314E25106E2E181F73_LI.jpg)
+
 ![12119BD57A8E629D5020BED41B4A5A63](https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E5%AE%9D%E4%B8%80%E5%8F%B7/12119BD57A8E629D5020BED41B4A5A63.jpg)
 
 ![](https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E5%AE%9D%E4%B8%80%E5%8F%B7/2722D5E6BE292042E631BBD7411F9FB0.jpg)
@@ -13,4 +15,3 @@
 
 ![](https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E5%AE%9D%E4%B8%80%E5%8F%B7/FD6AA5696D22C68FB7C3DCBB5F0B2923.jpg)
 
-![](https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E5%AE%9D%E4%B8%80%E5%8F%B7/InkedCB4FF59E9CB155314E25106E2E181F73_LI.jpg)
