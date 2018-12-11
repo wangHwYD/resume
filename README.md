@@ -28,7 +28,7 @@
 
 ## 浙江艋顺信息科技有限公司 （2016年11月~）
 ## 项目经历
-### 湾滩长助手(2017/12~迭代中)项目  独立开发
+### 湾滩长助手(2017/12~2018/1~迭代中)项目  独立开发
 负责对android app开发
 mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
 集成视频监控 极光推送 百度语音 天地图
@@ -45,7 +45,7 @@ mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
 上架市场 豌豆荚,360,小米,华为,vivo,应用宝
 
 
-### 海洋空间资源数据采集系统(2018/4~迭代中)平板项目 独立开发
+### 海洋空间资源数据采集系统(2018/4~2018/5~迭代中)平板项目 独立开发
 负责该项目 该项目中有大量的webview 交互
 mvp rxjava2+rxandroid+greendao+glide+jiaozivideoplayer
 AES加密解密 使用web本地地图 word数据处理 xlsx数据处理,生成 pdf google全景图  
