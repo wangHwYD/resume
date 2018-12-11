@@ -1,5 +1,5 @@
 
-## ![](.\.\images\25262967.jpg)联系方式
+## 联系方式
 
 - 手机：17376592189(杭州)   13409909996(外地)
 - Email：13409909996@163.com
@@ -29,59 +29,50 @@
 ## 浙江艋顺信息科技有限公司 （2016年11月~）
 ## 项目经历
 ### 湾滩长助手(2017年12月~迭代中)项目  独立开发
-
 负责对android app开发
-
+mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
+集成视频监控 极光推送 百度语音 天地图
 [项目图片]()
 [新闻](https://mp.weixin.qq.com/s/JVOgF9ulvyV0hTBeHJHsqw)
-
+[新闻](https://mp.weixin.qq.com/s/JVOgF9ulvyV0hTBeHJHsqw)
+[新闻](https://mp.weixin.qq.com/s/r1eBDb0OV2GPYpNsDLPOzw)
+[新闻](https://mp.weixin.qq.com/s/pvcsHvpKOLUQfxRLhN4z8Q)
+[新闻](https://mp.weixin.qq.com/s/ZEoFJFSGuL6qpu7xTLksQw)
+[新闻](https://mp.weixin.qq.com/s/-JUnWR5NuU-MLJa5g6oKIw)
 ### 海洋空间资源数据采集系统(2018年4月~迭代中)平板项目 独立开发
-该项目中有大量的webview 交互
-
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
-
+负责该项目 该项目中有大量的webview 交互
+mvp rxjava2+rxandroid+greendao+glide+jiaozivideoplayer
+AES加密解密 使用web本地地图 word数据处理 xlsx数据处理,生成 pdf google全景图  
 [项目图片]()
 
 ### 水产品安全监管平台(2018年6月~2018年7月)项目  使用DCloud的MUI框架混合开发
-该项目是浙江省玉环市渔业局项目,监察市内渔业养殖户渔药使用情况
-
+负责该项目 该项目是浙江省玉环市渔业局项目,监察市内渔业养殖户渔药使用情况
+使用Dcloud 的MUI进行的混合开发,上架android市场和ios端
 [项目图片]()
-
 
 ### 海宝一号(2017年1月~2017年4月) 身份证签证设备 独立开发
 
+负责该项目,使用mvc设计模式,rxjava2+rxandroid+okhttp+retrofit2
+图片框架 glide4.1数据库greendao 集成厂家身份证读取模块, 百度语音.
 
 [项目图片]()
+
+###### 滩长助手(2017年9月-2017年10月(第一版)-2017年12月停止维护 湾滩长助手玉环版本,后集成到浙江省统一版本) 独立开发
+###### 水产品安全监管平台(2017年3月-2017年4月) 使用android原生开发 独立开发
+###### 渔业招聘(2016年11月-2016年12) 独立开发
+
 ### 其他项目
 ###### 壹锤八拾(商城项目) 
-负责 [登录]() [首页]() [分类]() [论坛]() 模块  
-
-滩长助手(2017年9月-2017年10月(第一版)-2017年12月停止维护 湾滩长助手玉环版本)
-
-水产品安全监管平台(2017年3月-2017年4月) 使用android原生开发 
-
-实名登记便民保险系统(2017年12月-2018年1月) [项目图片]()
-
-渔业招聘(2016年11月-2016年12)
-
+负责 ,登录 ,首页,分类,论坛 第三方登录 模块 [项目图片]()
+mvp rxjava retrofit2  glide 
+###### 一景乳业(商城项目) 
+负责 登录,首页,商品  第三方登录 模块[项目图片]()
+mvp rxjava retrofit2  glide 
 
 
 ## 上海若比邻软件有限公司 （2015年3月 ~ 2016年9月）
 
-xx项目 
-
-
-
-xx项目 
-
-
-
-其他项目
-
-
-
----
+项目
 
 ### 开源项目
 [study](https://github.com/wangHwYD/study) 收集的学习资料
