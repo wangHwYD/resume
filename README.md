@@ -48,7 +48,7 @@ mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
 负责该项目 该项目中有大量的webview 交互
 mvp rxjava2+rxandroid+greendao+glide+jiaozivideoplayer
 AES加密解密 使用web本地地图 word数据处理 xlsx数据处理,生成 pdf google全景图  
-[操作手册](https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E6%B4%8B%E7%A9%BA%E9%97%B4%E8%B5%84%E6%BA%90%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E7%B3%BB%E7%BB%9F/%E5%B2%B1%E5%B1%B1%E5%B9%B3%E6%9D%BF%E6%8A%A5%E5%91%8A12-3%EF%BC%88bob%EF%BC%89.docx)
+[操作手册](http://note.youdao.com/noteshare?id=4083b59745b4db1a1a5c4e46c76a1471)
 ### [项目图片](https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E6%B4%8B%E7%A9%BA%E9%97%B4%E8%B5%84%E6%BA%90%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E7%B3%BB%E7%BB%9F/hy.md)
 
 ### 水产品安全监管平台(2018年6月~2018年6月)项目  使用DCloud的MUI框架混合开发
