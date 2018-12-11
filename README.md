@@ -129,6 +129,19 @@ ListView的优化和多种条目的展示
 
 等等.....
 ### 技能清单
+1.熟练Android自定义控件，可以实现常用的UI效果;
+2.熟练掌握常见列表级控件的优化和技巧;
+3.熟练掌握异步任务加载网络数据;
+4.熟练掌握Android事件分发机制;
+5.熟练掌握幕适配和兼容性适配;
+6.熟悉Android下内存优化，性能优化;
+7.熟悉Android下的Hanlder 消息机制 和 AsyncTask 异步任务机制;
+8.熟悉Android中的动画，选择器，样式和主题的使用
+9.熟悉网络百度地图定位、语音、图片识别、第三方支付、天地图、face++人脸识别、shardSDK第三方登录、融云客服、极光推送和即时聊天通讯等一些市面常见app第三方平台功能嵌入开发；
+11.熟悉okhttp、butterknife、eventbus、imageloader、Glide、Picasso、RxJava、RxAndroid、retrofit2、dagger2、各类视频框架等等第三方库
+12.熟悉android各类传感器,可以熟练集成各种厂家提供的代码库
+13.对网络通信,对Tcp/ip,http/xmpp/Socket通信有一定的了解;
+
 Android/Java/Xml/Json/html5/html/Json/TCP/socket/webview/mvc/mvp
 AndroidStudio/Eclipse/Svn/Git/github
 
