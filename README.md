@@ -17,7 +17,7 @@
 - 专科/长江职业技术学院
 - 技术博客：https://www.jianshu.com/u/8f81933132e2
 - GitHub：https://github.com/wangHwYD
-- 期望职位：Android高级程序员
+- 期望职位：Android开发
 - 期望薪资：税前月薪13k~15k
 - 期望城市：杭州
 
