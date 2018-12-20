@@ -41,12 +41,11 @@
 - Android/Java/Xml/Json/html5/html/Json/TCP/socket/webview/mvc/mvp 
 - AndroidStudio/Eclipse/Svn/Git/github/mui/rxjava/rxandroid/flutter/kotlin 
 
-
 ---
 ## 工作经历
 
 
-## 浙江艋顺信息科技有限公司 （2016年11月~）
+## 浙江艋顺信息科技有限公司 （2016年11月~在职）
 ## 项目经历
 ### 湾滩长助手(2017/12~2018/1~迭代中)项目  独立开发
 负责对android app开发
