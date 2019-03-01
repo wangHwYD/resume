@@ -1,7 +1,7 @@
 
 ## 联系方式
 
-- 手机： 17376592189(杭州)/13409909996(黄冈)
+- 手机：13409909996(黄冈)/17376592189(杭州)
 - Email：13409909996@163.com
 - QQ/微信号：542524570/whw13409909996
 
@@ -31,10 +31,10 @@
 - 7.熟悉Android下的Hanlder 消息机制 和 AsyncTask 异步任务机制;
 - 8.熟悉Android中的动画，选择器，样式和主题的使用
 - 9.熟悉网络百度地图定位、语音、图片识别、第三方支付、天地图、face++人脸识别、shardSDK第三方登录、融云客服、极光推送和即时聊天通讯等一些市面常见app第三方平台功能嵌入开发;
-- 10.熟悉okhttp、butterknife、eventbus、imageloader、Glide、Picasso、RxJava、RxAndroid、retrofit2、dagger2、各类视频框架等等第三方库 
+- 10.熟悉okhttp、butterknife、eventbus、imageloader、Glide、RxJava、RxAndroid、retrofit2、dagger2、各类视频框架等等第三方库 
 - 11.熟悉android各类传感器,可以熟练集成各种厂家提供的代码库 
 - 12.对网络通信,对Tcp/ip,http/xmpp/Socket通信有一定的了解; 
-- 13.对mui前端框架,flutter框架,kotlin有一定的了解 
+- 13.使用过mui前端框架开发过Hybrid App
 - 14.在业务开展中，表现出优秀的技术判断与决策能力、产品感觉和问题分析能力，能够合理评估开发时间，并进行开发。 
 - Android/Java/Xml/Json/html5/html/Json/TCP/socket/webview/mvc/mvp 
 - AndroidStudio/Eclipse/Svn/Git/github/mui/rxjava/rxandroid/flutter/kotlin 
@@ -43,7 +43,7 @@
 ## 工作经历
 
 
-## 浙江艋顺信息科技有限公司 （2016年11月~）
+## 浙江艋顺信息科技有限公司 （2016年11月~在职）
 ## 项目经历
 ### 湾滩长助手(2017/12~2018/1~迭代中)项目  独立开发
 负责对android app开发
