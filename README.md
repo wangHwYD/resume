@@ -13,12 +13,10 @@
 
 
 - 王浩文/男/1993   						      	
-- 工作年限：3年半
+- 工作年限：3年
 - 专科/长江职业技术学院
-- 技术博客：https://www.jianshu.com/u/8f81933132e2
-- GitHub：https://github.com/wangHwYD
 - 期望职位：Android开发
-- 期望薪资：税前月薪14k~16k
+- 期望薪资：税前月薪13~15k
 - 期望城市：杭州
 
 ---
@@ -41,7 +39,6 @@
 - Android/Java/Xml/Json/html5/html/Json/TCP/socket/webview/mvc/mvp 
 - AndroidStudio/Eclipse/Svn/Git/github/mui/rxjava/rxandroid/flutter/kotlin 
 
-
 ---
 ## 工作经历
 
@@ -61,9 +58,7 @@ mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
 [新闻](https://mp.weixin.qq.com/s/pvcsHvpKOLUQfxRLhN4z8Q)
 [新闻](https://mp.weixin.qq.com/s/ZEoFJFSGuL6qpu7xTLksQw)
 [新闻](https://mp.weixin.qq.com/s/-JUnWR5NuU-MLJa5g6oKIw)
-
 上架市场 豌豆荚,360,小米,华为,vivo,应用宝
-
 
 ### 海洋空间资源数据采集系统(2018/4~2018/5~迭代中)平板项目 独立开发
 负责该项目 该项目中有大量的webview 交互
@@ -101,7 +96,7 @@ mvp rxjava retrofit2  glide
 mvp rxjava retrofit2  glide 
 
 
-## 上海若比邻软件有限公司 （2015年9月 ~ 2016年10月）
+## 上海若比邻软件有限公司 （2016年3月 ~ 2016年10月）
 ###### 微刊(2016/6-2016/9)
 1.实现整体的ui架构，根据事件分发原理解决事件冲突
 2.使用WebView实现网页显示模块;
@@ -110,25 +105,17 @@ mvp rxjava retrofit2  glide
 5.实现下拉刷新和加载更多功能
 6.ListView的优化和分条目展示
 
-###### 必看(2016/3-2016/5)
-1.实现整体的ui架构，根据事件分发原理解决事件冲突
+###### 壹元易购 (2016/3-2016/5)
+1.实现整体的ui，根据事件分发原理解决事件冲突
 2.实现viewpager与指示器的联动
 3.实现下拉刷新和加载更多功能 
-4.使用webView加载网页新闻
+4.使用webView加载网页
 5.使用三级缓存+Picasso+AsyncTask来处理图片的缓存
 6.ListView的优化和分条目展示
 7.使用EventBus传递数据
 8.使用异步加载机制和缓存机制以及绑定Tag机制实现listview条目的视频播放
 9.植入sharedSdk 
 10.使用Xutils中网络框架从服务器上请求图片和视频数据
-
-###### 壹元易购 (2015/10-2016/1)
-fragment+viewPager 主体,PullToRefeish实现下拉刷新上拉加载更多;
-顶部轮播图的实现,处理主界面、轮播图和ListView的点击触摸事件冲突,
-使用第三方框架大图片加载处理（三级缓存处理），同时对应用进行相应的优化
-使用Volley请求服务器内容
-使用EventBus对数据在不同线程下的传递
-ListView的优化和多种条目的展示
 
 ### 开源项目
 [study](https://github.com/wangHwYD/study) 收集的学习资料
