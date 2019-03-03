@@ -31,11 +31,10 @@
 - 7.熟悉Android下的Hanlder 消息机制 和 AsyncTask 异步任务机制;
 - 8.熟悉Android中的动画，选择器，样式和主题的使用
 - 9.熟悉网络百度地图定位、语音、图片识别、第三方支付、天地图、face++人脸识别、shardSDK第三方登录、融云客服、极光推送和即时聊天通讯等一些市面常见app第三方平台功能嵌入开发;
-- 10.熟悉okhttp、butterknife、eventbus、imageloader、Glide、RxJava、RxAndroid、retrofit2、dagger2、各类视频框架等等第三方库 
-- 11.熟悉android各类传感器,可以熟练集成各种厂家提供的代码库 
-- 12.对网络通信,对Tcp/ip,http/xmpp/Socket通信有一定的了解; 
-- 13.使用过mui前端框架开发过Hybrid App
-- 14.在业务开展中，表现出优秀的技术判断与决策能力、产品感觉和问题分析能力，能够合理评估开发时间，并进行开发。 
+- 10.熟悉okhttp、butterknife、eventbus、imageloader、Glide、RxJava、RxAndroid、retrofit2、各类视频框架,等第三方库 
+- 11.对网络通信,对Tcp/ip,http/xmpp/Socket通信有一定的了解; 
+- 12.使用过mui前端框架开发过Hybrid App
+- 13.在业务开展中，表现出优秀的技术判断与决策能力、产品感觉和问题分析能力，能够合理评估开发时间，并进行开发。 
 - Android/Java/Xml/Json/html5/html/Json/TCP/socket/webview/mvc/mvp 
 - AndroidStudio/Eclipse/Svn/Git/github/mui/rxjava/rxandroid/flutter/kotlin 
 
@@ -43,9 +42,9 @@
 ## 工作经历
 
 
-## 浙江艋顺信息科技有限公司 （2016年11月~在职）
+## 浙江艋顺信息科技有限公司 （2016年11月 - 在职）
 ## 项目经历
-### 湾滩长助手(2017/12~2018/1~迭代中)项目  独立开发
+### 湾滩长助手(2017/12-2018/1~迭代中)项目  独立开发
 负责对android app开发
 mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
 集成视频监控 极光推送 百度语音 天地图
@@ -60,7 +59,7 @@ mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
 [新闻](https://mp.weixin.qq.com/s/-JUnWR5NuU-MLJa5g6oKIw)
 上架市场 豌豆荚,360,小米,华为,vivo,应用宝
 
-### 海洋空间资源数据采集系统(2018/4~2018/5~迭代中)平板项目 独立开发
+### 海洋空间资源数据采集系统(2018/4-2018/5~迭代中)平板项目 独立开发
 负责该项目 该项目中有大量的webview 交互
 mvp rxjava2+rxandroid+greendao+glide+jiaozivideoplayer
 AES加密解密 使用web本地地图 word数据处理 xlsx数据处理,生成 pdf google全景图  
@@ -68,13 +67,13 @@ AES加密解密 使用web本地地图 word数据处理 xlsx数据处理,生成 p
 [操作手册](http://note.youdao.com/noteshare?id=4083b59745b4db1a1a5c4e46c76a1471)
 ### [项目图片](https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E6%B4%8B%E7%A9%BA%E9%97%B4%E8%B5%84%E6%BA%90%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E7%B3%BB%E7%BB%9F/hy.md)
 
-### 水产品安全监管平台(2018/6~2018/6)项目  使用DCloud的MUI框架混合开发
+### 水产品安全监管平台(2018/6-2018/6)项目  使用DCloud的MUI框架混合开发
 负责该项目 该项目是浙江省玉环市渔业局项目,监察市内渔业养殖户渔药使用情况
 使用Dcloud 的MUI进行的混合开发,上架android市场和ios端
 上架市场 豌豆荚,360,华为 appStore
 ### [项目图片](https://github.com/wangHwYD/resume/blob/master/images/%E6%B0%B4%E4%BA%A7%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%AE%A1%E5%B9%B3%E5%8F%B0/scp.md)
 
-### 海宝一号(2017/1~2017/4) 身份证签证设备 独立开发
+### 海宝一号(2017/1-2017/4) 身份证签证设备 独立开发
 
 负责该项目,使用mvc设计模式,rxjava2+rxandroid+okhttp+retrofit2
 图片框架 glide4.1数据库greendao 集成厂家身份证读取模块, 百度语音.
@@ -90,13 +89,13 @@ AES加密解密 使用web本地地图 word数据处理 xlsx数据处理,生成 p
 负责 :登录 ,首页,分类,论坛 第三方登录融云客服  模块
 ### [项目图片](https://github.com/wangHwYD/resume/blob/master/images/%E4%B8%80%E9%94%A480/80.md)
 mvp rxjava retrofit2  glide 
-###### 一景乳业(商城项目)  (2018/10-11)
+###### 一景乳业(商城项目)  (2018/10-12)
 负责 : 登录,首页,商品  第三方登录 融云客服模块
 ### [项目图片](https://github.com/wangHwYD/resume/blob/master/images/%E4%B8%80%E6%99%AF%E4%B9%B3%E4%B8%9A/yj.md)
 mvp rxjava retrofit2  glide 
 
 
-## 上海若比邻软件有限公司 （2016年3月 ~ 2016年10月）
+## 上海若比邻软件有限公司 （2016年3月 - 2016年10月）
 ###### 微刊(2016/6-2016/9)
 1.实现整体的ui架构，根据事件分发原理解决事件冲突
 2.使用WebView实现网页显示模块;
