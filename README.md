@@ -69,7 +69,7 @@
 
 4.android端,ios端,h5端,微信小程序端分别进行ui适配,优化整体ui效果
 
-项目图片: 
+项目图片: https://github.com/wangHwYD/resume/blob/master/images/hengyi/%E5%BE%AE%E5%95%86%E5%9F%8E/wsc.md
 
 ## 项目经历
 
@@ -164,22 +164,36 @@ mvp rxjava retrofit2  glide
 ## 上海若比邻软件有限公司 （2016年3月 - 2016年10月）
 ###### 微刊(2016/6-2016/9)
 1.实现整体的ui架构，根据事件分发原理解决事件冲突
+
 2.使用WebView实现网页显示模块;
+
 3.使用Github上第三方框架Retrfoit获取后台数据，使用converter-gson解析器解析数据
+
 4.使用EventBus传递数据
+
 5.实现下拉刷新和加载更多功能
+
 6.ListView的优化和分条目展示
 
 ###### 壹元易购 (2016/3-2016/5)
 1.实现整体的ui，根据事件分发原理解决事件冲突
+
 2.实现viewpager与指示器的联动
+
 3.实现下拉刷新和加载更多功能 
+
 4.使用webView加载网页
+
 5.使用三级缓存+Picasso+AsyncTask来处理图片的缓存
+
 6.ListView的优化和分条目展示
+
 7.使用EventBus传递数据
+
 8.使用异步加载机制和缓存机制以及绑定Tag机制实现listview条目的视频播放
+
 9.植入sharedSdk 
+
 10.使用Xutils中网络框架从服务器上请求图片和视频数据
 
 ###### GitHub 
