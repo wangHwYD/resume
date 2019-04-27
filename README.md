@@ -1,8 +1,8 @@
 
 ## 联系方式
 
-- 手机：13409909996(黄冈)/17376592189(杭州)
-- Email：13409909996@163.com
+- 手机：17376592189(杭州)/13409909996(黄冈)
+- Email：13409909996@163.com/haowen.wang@hand-china.com
 - QQ/微信号：542524570/whw13409909996
 
 ---
@@ -33,23 +33,65 @@
 - 9.熟悉百度地图定位、语音、图片识别、第三方支付、天地图、face++人脸识别、shardSDK第三方登录、融云客服、极光推送和即时聊天通讯等app第三方平台功能嵌入开发;
 - 10.熟悉okhttp、butterknife、eventbus、imageloader、Glide、RxJava、RxAndroid、retrofit2、各类视频框架,等第三方库 
 - 11.熟悉网络通信,Tcp/ip,http/xmpp/Socket; 
-- 12.使用过mui前端框架开发过Hybrid App
+- 12.使用过mui前端框架开发过Hybrid App，上架android平台和ios平台;
 - 13.在业务开展中，表现出优秀的技术判断与决策能力、产品感觉和问题分析能力，能够合理评估开发时间，并进行开发。 
 - 14.熟悉android,ios上架流程,在多个app平台进行上架
+- 15.能使用uni-app框架进行跨平台开发,适配android 、ios、微信小程序、h5、支付宝小程序开发
 - Android/Java/Xml/Json/html5/html/Json/TCP/socket/webview/mvc/mvp/javaScript 
-- AndroidStudio/Eclipse/Svn/Git/github/mui/rxjava/rxandroid/flutter/kotlin 
+- AndroidStudio/Eclipse/Svn/Git/github/mui/rxjava/rxandroid/flutter/kotlin/uni-app/vue
 
 ---
 ## 工作经历
+## 上海得逸信息技术有限公司(汉得信息子公司)（2019年3月-至今）
+### 任务指派(2019年3月14日-2019年3月26日)项目  
 
+该项目为原生项目
+
+1.集成百度语音,完成语音转行为文字功能,
+
+2.修复发布模块bug 语音模块 发布任务功能
+
+3.完善任务模块,完成任务修改删除,自由行任务增加协同人员功能
+
+4.增加我完成的任务页面
+
+5.项目部分优化,抽取部分代码,删除无用资源,优化项目,使其打包大小减少4m
+
+### 恒逸微商城(2019年3月27日-2019年4月28日)项目  独立开发
+
+该项目为uni-app框架开发的混合项目,适配android 、ios、微信小程序、h5 端
+
+1.完成项目第一版整体开发,完成整体架构设计;
+
+2.完成首页,品牌,购物车,我的,分类,商品列表,下单,订单列表,订单审核,推送.....等等功能模块
+
+3.封装原框架的网络请求;项目整体进行优化抽取减少整体项目大小,整体数据进行缓存,提升项目流畅度
+
+4.android端,ios端,h5端,微信小程序端分别进行ui适配,优化整体ui效果
+
+项目图片: 
+
+## 项目经历
 
 ## 浙江艋顺信息科技有限公司 （2016年11月 - 2019年3月）
 ## 项目经历
 ### 湾滩长助手(2017/12-2018/1~迭代中)项目  独立开发
 负责对android app开发
 项目使用:
-mvp rxjava2+rxandroid++okhttp+retrofit2+greendao+glide+jiaozivideoplayer
-集成视频监控 极光推送 百度语音 天地图
+
+1.使用mvp架构  
+
+2.网络框架使用rxjava2+rxandroid++okhttp+retrofit2 
+
+3.数据库使用greendao,图片框架glide,视频库jiaozivideoplayer
+
+4.集成第三方厂商视频监控,接入视频摄像头拍摄的视频流
+
+5.集成 极光推送 百度语音 天地图
+
+使用天地图完成巡滩路线记录,使用视频监控完成视频巡滩逻辑
+
+解决在手机锁屏状态下的gps数据采集,进行gps数据精度矫正,完成海康摄像头的视频数流读取与解析
 
 项目图片 https://github.com/wangHwYD/resume/blob/master/images/%E6%B9%BE%E6%BB%A9%E9%95%BF%E5%8A%A9%E6%89%8B/tz.md
 新闻:
@@ -57,29 +99,49 @@ https://mp.weixin.qq.com/s/r1eBDb0OV2GPYpNsDLPOzw,https://mp.weixin.qq.com/s/pvc
 上架市场 豌豆荚,360,小米,华为,vivo,应用宝
 
 ### 海洋空间资源数据采集系统(2018/4-2018/5~迭代中)平板项目 独立开发
-负责该项目开发,项目涉及国土资源数据未进行上架
-该项目中有大量的JavaScript交互
-项目地图采用卫星瓦片图
-mvc rxjava2+rxandroid+greendao+glide+jiaozivideoplayer
-AES加密解密  word数据解析 xlsx数据生成,生成 pdf google全景图  
-集成华测RTK GPS测绘仪
+负责该项目开发,项目涉及国土资源数据未进行上架;
+
+1.该项目中有大量的JavaScript交互
+
+2.项目地图采用卫星瓦片图,海量图片数据加载
+
+3.项目使用mvc架构  rxjava2+rxandroid+greendao+glide+jiaozivideoplayer
+
+4.数据使用AES加密解密  
+
+5.文档查看使用word数据解析 xlsx数据生成,生成 pdf google全景图  
+
+6.集成华测RTK GPS测绘仪,进行gps数据保存导出
+
+7.进行地图数据修正和采集
+
 操作手册:http://note.youdao.com/noteshare?id=4083b59745b4db1a1a5c4e46c76a1471
 项目图片:
 https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E6%B4%8B%E7%A9%BA%E9%97%B4%E8%B5%84%E6%BA%90%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E7%B3%BB%E7%BB%9F/hy.md
 
-### 水产品安全监管平台(2018/6-2018/6)项目  使用DCloud的MUI框架混合开发
-独立开发 
-该项目是浙江省玉环市渔业局项目,监察市内渔业养殖户渔药使用情况
-使用Dcloud 的MUI进行的混合开发,上架android市场和ios端
+### 水产品安全监管平台(2018/6-2018/6)项目  独立开发 
+
+该项目 使用DCloud的MUI框架混合开发 
+
+项目业务为浙江省玉环市渔业局项目,监察市内渔业养殖户渔药使用情况
+
+1.使用Dcloud 的MUI进行的混合开发,
+
+2.上架android市场和ios端
+
 上架市场 豌豆荚,360,华为 appStore
 项目图片:
 https://github.com/wangHwYD/resume/blob/master/images/%E6%B0%B4%E4%BA%A7%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%AE%A1%E5%B9%B3%E5%8F%B0/scp.md
 
-### 海宝一号(2017/1-2017/4) 身份证签证设备独立开发
+### 海宝一号(2017/1-2017/4) 广告机项目 独立开发
+
 负责该项目
-使用mvc设计模式,
-rxjava2+rxandroid+okhttp+retrofit2
-图片框架 glide4.1数据库greendao 集成厂家身份证读取模块, 百度语音,GPS/北斗
+1.使用mvc设计模式,
+2.网络架构为rxjava2+rxandroid+okhttp+retrofit2
+3.图片框架 glide4.1数据库greendao 集成厂家身份证读取模块, 百度语音,GPS/北斗
+
+4.记录gps数据,回传服务器,开机启动,进行身份证信息读取
+
 项目图片:
 https://github.com/wangHwYD/resume/blob/master/images/%E6%B5%B7%E5%AE%9D%E4%B8%80%E5%8F%B7/hb.md
 
