@@ -46,7 +46,7 @@
 该项目为uni-app框架开发的混合项目,适配android 、ios端
 
 1.使用uni-app框架进行开发,独立完成项目
-项目图片: https://github.com/wangHwYD/resume/blob/master/images/hengyi/hywsc/wsc.md
+项目图片: https://github.com/wangHwYD/resume/blob/master/images/hywsc/wsc.md
 ## 上海得逸信息技术有限公司(汉得信息子公司)（2019年3月-2019年5月）
 ### 恒逸微商城(2019年3月27日-2019年4月28日)项目  独立开发
 
